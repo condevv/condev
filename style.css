@@ -93,6 +93,7 @@ nav ul li a:hover:after {
     #f54768 50.19%,
     #ff9ac2 79.69%
   );
+  -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -167,7 +168,7 @@ nav ul li a:hover:after {
 
 .dot-rolling {
   position: absolute;
-  top: 40px; left: 40px;
+  top: 275px; left: 325px;
   height: 50px;
   font-size: 20px;
   padding-left: 100px;
